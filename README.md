@@ -6,7 +6,7 @@ A Python-based application to automatically sort and manage emails using OAuth a
 
 Features
 
-- Secure login with OAuth (no need to enter passwords in the app)
+- Secure login with OAuth 
 - Automatically sorts emails based on rules or categories
 - Supports Gmail and other OAuth-compatible email providers
 - Handles attachments and labels (if using Gmail)
